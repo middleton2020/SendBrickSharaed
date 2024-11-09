@@ -1,0 +1,11 @@
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\bin\Debug\net8.0\SendBrickShared.deps.json
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\bin\Debug\net8.0\SendBrickShared.dll
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\bin\Debug\net8.0\SendBrickShared.pdb
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\obj\Debug\net8.0\SendBrickShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\obj\Debug\net8.0\SendBrickShared.AssemblyInfoInputs.cache
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\obj\Debug\net8.0\SendBrickShared.AssemblyInfo.cs
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\obj\Debug\net8.0\SendBrickShared.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\obj\Debug\net8.0\SendBrickShared.dll
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\obj\Debug\net8.0\refint\SendBrickShared.dll
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\obj\Debug\net8.0\SendBrickShared.pdb
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\obj\Debug\net8.0\ref\SendBrickShared.dll

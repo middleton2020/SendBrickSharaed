@@ -1,0 +1,5 @@
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\obj\Debug\net5.0\SendBrickShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\obj\Debug\net5.0\SendBrickShared.AssemblyInfoInputs.cache
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\obj\Debug\net5.0\SendBrickShared.AssemblyInfo.cs
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\obj\Debug\net5.0\SendBrickShared.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\SendBrickShared\SendBrickShared\obj\Debug\net5.0\SendBrickShared.csproj.AssemblyReference.cache
