@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SendBrickShared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83dee2eb1a23708d0ad04a580d17797da9c3b6f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c8ebac10ebd11172d27d66ac68906760c43fc67")]
 [assembly: System.Reflection.AssemblyProductAttribute("SendBrickShared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SendBrickShared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
